@@ -1,1 +1,1 @@
-# mcp-demo-
+# mcp-demo
